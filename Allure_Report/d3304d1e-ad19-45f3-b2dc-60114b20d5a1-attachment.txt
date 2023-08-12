@@ -1,0 +1,8 @@
+[32mINFO    [0m Test_Meditab_Invalid_Credentials:test_Invalid_Login_Credentials.py:16 Testcase test_invalid_credentials started
+[32mINFO    [0m Test_Meditab_Invalid_Credentials:test_Invalid_Login_Credentials.py:17 Opening Browser
+[32mINFO    [0m Test_Meditab_Invalid_Credentials:test_Invalid_Login_Credentials.py:20 Entering Clinic"Unknown"
+[32mINFO    [0m Test_Meditab_Invalid_Credentials:test_Invalid_Login_Credentials.py:22 Entering Username"Anthing"
+[32mINFO    [0m Test_Meditab_Invalid_Credentials:test_Invalid_Login_Credentials.py:24 Entering Password"Nothing"
+[32mINFO    [0m Test_Meditab_Invalid_Credentials:test_Invalid_Login_Credentials.py:26 Clicking Login Button
+[32mINFO    [0m Test_Meditab_Invalid_Credentials:test_Invalid_Login_Credentials.py:30 taking screenshot
+[32mINFO    [0m Test_Meditab_Invalid_Credentials:test_Invalid_Login_Credentials.py:33 TestCase test_invalid_credentials Passed
